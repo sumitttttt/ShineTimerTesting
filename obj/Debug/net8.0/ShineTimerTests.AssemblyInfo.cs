@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShineTimerTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffd334ee67169ec0fac67f8ec927e4664b819ff7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ada609709a372daea46858fa4ce0daf090203006")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShineTimerTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShineTimerTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
